@@ -1,0 +1,8 @@
+#+title: Cleanse
+
+* Introduction
+This is a horror game about an investigator who has to look into a case
+concerning missing children in a desolated town.
+* Developers
+- AjAzE [[[https://github.com/AjAzE-dev][GitHub profile]]]
+- ydalton [[[https://github.com/ydalton][GitHub profile]]]
