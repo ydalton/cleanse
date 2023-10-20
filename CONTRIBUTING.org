@@ -1,0 +1,19 @@
+#+title: Contributing
+
+* Coding style
+(To be done)
+* Development procedure
+This outlines the steps you will need to take to contribute to Cleanse.
+1. Do not commit on the ~master~ branch. Instead, checkout a new branch and make
+   your commits there. You can make as many branches as you need. Some
+   additional notes on committing:
+   - Commit messages must be worded in the imperative mood. For example: "Add
+     CONTRIBUTING.org file". You can also add a description to the commit for
+     additional explanation.
+   - Additionally, specify the files that the commit affects are located. For
+     example: "data/textures: add player textures" if the commit in question is
+     adding textures to ~/data/textures~.
+   - Use ~git add -p~ to choose which hunks to stage for commit, and make your
+     commits look cleaner.
+2. Use ~git format-patch~ to convert your commits into patch files that can be
+   easily sent to the maintainer (ydalton in this case).
